@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cmooring/cpsc223/hw4/collection.h
+vector
+-
+
+/home/cmooring/cpsc223/hw4/hw4_tests.cpp
+iostream
+-
+string
+-
+gtest/gtest.h
+-
+linked_list_collection.h
+/home/cmooring/cpsc223/hw4/linked_list_collection.h
+
+/home/cmooring/cpsc223/hw4/linked_list_collection.h
+vector
+-
+algorithm
+-
+collection.h
+/home/cmooring/cpsc223/hw4/collection.h
+

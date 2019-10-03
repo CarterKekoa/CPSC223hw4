@@ -1,0 +1,4 @@
+/home/cmooring/cpsc223/hw4/CMakeFiles/edit_cache.dir
+/home/cmooring/cpsc223/hw4/CMakeFiles/hw4perf.dir
+/home/cmooring/cpsc223/hw4/CMakeFiles/rebuild_cache.dir
+/home/cmooring/cpsc223/hw4/CMakeFiles/hw4test.dir
